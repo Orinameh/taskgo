@@ -1,0 +1,29 @@
+# Binaries
+/bin/
+/dist/
+*.exe
+
+# Environment
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+*.out
+*.html
+coverage.*
+
+# Temporary
+/tmp/
+*.log
+
+# Go
+go.work.sum  # Optional - can commit if you want
